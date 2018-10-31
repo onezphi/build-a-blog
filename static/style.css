@@ -1,0 +1,91 @@
+*{
+    padding:0px;
+    margin:0px
+}
+
+.main-links{
+    text-decoration: none;
+    padding:10px 30px;
+    background-color: black;
+    color:white;
+    font-size: 30px;
+    border-radius: 10px;
+
+}
+
+.heading{
+    width:80%;
+    margin:30px auto;
+}
+
+.mainpage{
+    width:80%;
+    margin:0 auto;
+}
+
+.link{
+    text-decoration: none;
+    padding:10px 20px;
+
+}
+
+.link:hover{
+    color:black;
+}
+
+.seperator{
+    border-bottom: 2px solid black;
+    padding:10px 0px;
+}
+
+.form{
+    width:60%;
+    margin:50px auto;
+    text-align: center;
+}
+
+#title{
+    display: inline-block;
+    margin:10px;
+    font-size: 20px;
+    padding:10px;
+}
+.submit-btn{
+    display: block;
+    border:none;
+    background-color: #000;
+    color:white;
+    font-size: 20px;
+    margin:10px auto;
+    padding:10px;
+    border-radius: 10px;
+}
+
+textarea{
+    padding: 10px;
+}
+
+.singlepost{
+    width:100%;
+    text-align: center
+}
+
+.singlepost h1{
+    margin:20px;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize
+    
+}
+
+.singlepost p{
+    font-size: 20px;
+    margin:5px 10px;
+    padding:5px
+}
+
+.error{
+    color:red;
+    font-size: 20px;
+    margin:10px;
+}
